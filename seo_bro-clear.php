@@ -3,9 +3,6 @@
 	made by lakbor:
 	
 	boris@lakbor.ru
-	vk.com/lakbor
-	facebook.com/lakbor
-	instagram.com/lakbor
 	github.com/lakbor
 	
 	Thank you for using my SEO module.
